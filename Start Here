@@ -1,6 +1,14 @@
-# Data-Science-Projects
+# Data-Science-Projects: In this portfolio I have worked on projects that involved data preparation, importing and exporting of data, data analysis and visualization and machine learning modeling techniques. There are 2 capstone projects from the Udemy courses that I completed which are the first 2. The latter are personal projects that I worked on to hone my skills as a data scientist. 
+
+The datasets that I used were either provided during the course or were obtained on Kaggle. The links to the various dataset for each project were uploaded to my google drive which you can get the link to here-----> https://drive.google.com/drive/folders/1pE6O1GQybWY8X05-6lsKwmM_wg2J5c7S?usp=drive_link
+
+The text files explaining my process during the coding are also available on the drive attached. There are markdown comments on the code scripts themselves however the files delve deeper into my thought process. 
+
+The project files are as follows:
 1. Insurance Member Database analysis - SQL explorative data analysis project.
 
 2. Business Case: Audiobook Sales - Python Neural Network Model Project
 
-3. Nashville Housing Prices - 
+3. Nashville Housing Prices - Regression modeling of Sale price trends in Python
+
+4. Spaceship_Titanic - A/B testing of regression models for Kaggle Competition:Spaceship_Titanic
